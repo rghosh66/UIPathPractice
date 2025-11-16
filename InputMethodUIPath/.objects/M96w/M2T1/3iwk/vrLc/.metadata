@@ -1,0 +1,14 @@
+﻿{
+  "Name": "'Untitled - Notepad'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "vrLcljRi3ESGvVyXAbn83Q",
+  "Reference": "J6iJe7okv0WnFNzfi6gSiw/vrLcljRi3ESGvVyXAbn83Q",
+  "ParentRef": "J6iJe7okv0WnFNzfi6gSiw/3iwk23Kno0Ca25ZTF8PlCA",
+  "Created": "2025-09-02T17:21:14.9103197Z",
+  "Updated": "2025-09-02T17:21:14.9103197Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiPath output methods comparison",
+  "Type": "Screen",
+  "Id": "MQxDEBse1EiNyMMK-Sx-sg",
+  "Reference": "-wSSQ2HQU0SbGpG_e6K6Xg/MQxDEBse1EiNyMMK-Sx-sg",
+  "ParentRef": "-wSSQ2HQU0SbGpG_e6K6Xg/lg0n1WcYAkWSF8Xss-tJQA",
+  "Created": "2025-09-07T15:28:57.5474056Z",
+  "Updated": "2025-09-07T15:28:57.5474056Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "EmailAutomationAdvanced",
+  "ProjectType": "Process",
+  "Description": "Send and receive email labsheet",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "button Copilot pinned",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "IXIaxbdudkq93mGJqJDRMg",
+  "Reference": "j-UEuvTX6Um65I3tCpbJsQ/IXIaxbdudkq93mGJqJDRMg",
+  "ParentRef": "j-UEuvTX6Um65I3tCpbJsQ/Cc5MD8Ge20a3EGpGP9EaWA",
+  "Created": "2025-09-16T16:34:25.8151723Z",
+  "Updated": "2025-09-16T16:34:25.8151723Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

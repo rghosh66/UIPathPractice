@@ -1,0 +1,6 @@
+{
+  "Name": "ExcelDemoVideoRecord",
+  "ProjectType": "Process",
+  "Description": "Excel Automation",
+  "MainFile": "Main.xaml"
+}

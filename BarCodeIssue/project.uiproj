@@ -1,0 +1,6 @@
+{
+  "Name": "BarCodeIssue",
+  "ProjectType": "Process",
+  "Description": "Process to Issue Bar codes",
+  "MainFile": "Main.xaml"
+}

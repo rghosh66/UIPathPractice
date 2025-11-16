@@ -1,0 +1,14 @@
+﻿{
+  "Name": "An important aspect of …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "inGpDX17TEW_9VJ3sxpMDA",
+  "Reference": "20PUE499NU6ZEDpCPOjOaw/inGpDX17TEW_9VJ3sxpMDA",
+  "ParentRef": "20PUE499NU6ZEDpCPOjOaw/lj_HOFe-lEigEjATHbyKnQ",
+  "Created": "2025-09-10T04:51:54.3856065Z",
+  "Updated": "2025-09-10T04:51:54.3856065Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

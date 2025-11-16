@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Studio - About Control Flow",
+  "Type": "Screen",
+  "Id": "lj_HOFe-lEigEjATHbyKnQ",
+  "Reference": "20PUE499NU6ZEDpCPOjOaw/lj_HOFe-lEigEjATHbyKnQ",
+  "ParentRef": "20PUE499NU6ZEDpCPOjOaw/1Nc4diYwOU-sD87-MhoINg",
+  "Created": "2025-09-10T04:51:17.9206292Z",
+  "Updated": "2025-09-10T04:51:17.9206292Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

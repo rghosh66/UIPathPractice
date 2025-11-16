@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Studio - The User Interface",
+  "Type": "App",
+  "Id": "UXJ5z1Koik-xRaiS9tBylw",
+  "Reference": "uizXCQA-MUyf78aHZ9Izqg/UXJ5z1Koik-xRaiS9tBylw",
+  "Created": "2025-09-10T04:44:21.7391008Z",
+  "Updated": "2025-09-10T04:44:21.7391008Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

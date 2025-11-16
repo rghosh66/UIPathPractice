@@ -1,0 +1,6 @@
+{
+  "Name": "DataTableExtractionLab",
+  "ProjectType": "Process",
+  "Description": "Data Table extraction",
+  "MainFile": "Main.xaml"
+}

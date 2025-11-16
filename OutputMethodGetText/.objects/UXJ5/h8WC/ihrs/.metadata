@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Studio - The User Interface",
+  "Type": "Screen",
+  "Id": "ihrs6PW42Ueps1P0TkQJdg",
+  "Reference": "uizXCQA-MUyf78aHZ9Izqg/ihrs6PW42Ueps1P0TkQJdg",
+  "ParentRef": "uizXCQA-MUyf78aHZ9Izqg/h8WCizJpskSUjghL5FV6UA",
+  "Created": "2025-09-10T04:44:21.8704538Z",
+  "Updated": "2025-09-10T04:44:21.8704538Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

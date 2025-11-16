@@ -1,0 +1,8 @@
+Sam::21
+Rama::20
+Shyam ::21
+Sita::22
+Geetha::19
+Srini::23
+Ali::18
+Sam::21

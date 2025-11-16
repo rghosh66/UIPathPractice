@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Selector Demo",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "l0LD4GtwUUCJ4z41GkJASQ",
+  "Reference": "j-UEuvTX6Um65I3tCpbJsQ/l0LD4GtwUUCJ4z41GkJASQ",
+  "ParentRef": "j-UEuvTX6Um65I3tCpbJsQ/VgQqWsrMykmIlVpSjyQINA",
+  "Created": "2025-09-17T08:22:39.6204736Z",
+  "Updated": "2025-09-17T08:22:39.6204736Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

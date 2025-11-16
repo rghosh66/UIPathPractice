@@ -1,0 +1,12 @@
+﻿{
+  "Name": "log.txt - Notepad",
+  "Type": "App",
+  "Id": "ehO5cQPvQUKIX0ZIdaE_cg",
+  "Reference": "0X9u7DQ5LkSBqh1O9FPJXg/ehO5cQPvQUKIX0ZIdaE_cg",
+  "Created": "2025-09-16T06:30:02.5428674Z",
+  "Updated": "2025-09-16T06:30:02.5428674Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

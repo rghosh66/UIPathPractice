@@ -1,0 +1,26 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "4d27265d-43dc-40e1-8162-a663500028fb",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_argNumber": {
+            "type": "integer",
+            "minimum": -2147483648,
+            "maximum": 2147483647
+          },
+          "out_argnumFactorial": {
+            "type": "integer",
+            "minimum": -2147483648,
+            "maximum": 2147483647
+          }
+        },
+        "required": []
+      }
+    }
+  ]
+}

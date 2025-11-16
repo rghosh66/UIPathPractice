@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Best Robotic Process Automation Review",
+  "Type": "Screen",
+  "Id": "cpAe1s10qEaUPt1nkgfsTQ",
+  "Reference": "xR4ht3WqBEeEL4UHCj-H8g/cpAe1s10qEaUPt1nkgfsTQ",
+  "ParentRef": "xR4ht3WqBEeEL4UHCj-H8g/iIurxkasFkShPiY4xbyViQ",
+  "Created": "2025-07-27T14:49:29.8840867Z",
+  "Updated": "2025-07-27T14:49:29.8840867Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

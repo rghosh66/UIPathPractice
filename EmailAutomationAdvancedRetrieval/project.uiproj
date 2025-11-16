@@ -1,0 +1,6 @@
+{
+  "Name": "EmailAutomationAdvancedRetrieval",
+  "ProjectType": "Process",
+  "Description": "Demo of email retrieval",
+  "MainFile": "Main.xaml"
+}

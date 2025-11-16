@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Time Stamps Selector De…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "u4CWWwQL9U2I23uVUtNnXw",
+  "Reference": "0X9u7DQ5LkSBqh1O9FPJXg/u4CWWwQL9U2I23uVUtNnXw",
+  "ParentRef": "0X9u7DQ5LkSBqh1O9FPJXg/Ob6PKUaI3EiCbQals5lRHQ",
+  "Created": "2025-09-16T06:35:44.0524177Z",
+  "Updated": "2025-09-16T06:35:44.0524177Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

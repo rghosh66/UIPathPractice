@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Google Chrome",
+  "Type": "Element",
+  "Id": "CPN6FUTfP0ecXlqbNoqFmA",
+  "Reference": "nZ0ARQsIEkqL9E9FCzbceA/CPN6FUTfP0ecXlqbNoqFmA",
+  "ParentRef": "nZ0ARQsIEkqL9E9FCzbceA/kYYaYBsjdUqN_zwrwkfeJA",
+  "Created": "2025-09-18T18:49:41.5353926Z",
+  "Updated": "2025-09-18T18:49:41.5353926Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

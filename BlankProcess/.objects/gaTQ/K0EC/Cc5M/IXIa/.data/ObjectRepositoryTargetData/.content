@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PtzdJUAnBEmPqsOIMuGiIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="697, 0, 48, 72" ElementType="Button" FullSelectorArgument="&lt;uia automationid='Appid: Microsoft.Copilot_8wekyb3d8bbwe!App' cls='Taskbar.TaskListButtonAutomationPeer' name='Copilot pinned' /&gt;" Guid="a7fda09c-b28a-42d7-9cf0-b8825c604704" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='Shell_TrayWnd' idx='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3f30389b30e49b292abd1a79c9065c0c.png" xmlns="">06eYaVsUuUkGjotAP45TPUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ClickTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

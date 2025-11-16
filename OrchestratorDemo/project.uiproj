@@ -1,0 +1,6 @@
+{
+  "Name": "OrchestratorDemo",
+  "ProjectType": "Process",
+  "Description": "Simple workflow to demo Orchestrator functions",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "log.txt - Notepad(1)",
+  "Type": "Screen",
+  "Id": "Rgr-5MEhM0KHmhaeZmSIzA",
+  "Reference": "-FGqPv1Qe0-FUo0KB0Nt9A/Rgr-5MEhM0KHmhaeZmSIzA",
+  "ParentRef": "-FGqPv1Qe0-FUo0KB0Nt9A/_A4pc_GpUUaWT03N9eDcSg",
+  "Created": "2025-09-16T06:05:12.8601595Z",
+  "Updated": "2025-09-16T06:05:12.8601595Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

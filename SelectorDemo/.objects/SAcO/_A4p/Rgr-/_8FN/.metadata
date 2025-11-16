@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Time Stamps 09152025 …",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "_8FNVAfl-0a1n753lh03bQ",
+  "Reference": "-FGqPv1Qe0-FUo0KB0Nt9A/_8FNVAfl-0a1n753lh03bQ",
+  "ParentRef": "-FGqPv1Qe0-FUo0KB0Nt9A/Rgr-5MEhM0KHmhaeZmSIzA",
+  "Created": "2025-09-16T06:05:57.3460435Z",
+  "Updated": "2025-09-16T06:05:57.3460435Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "DataTableExtractionLab-ScreenRecording",
+  "ProjectType": "Process",
+  "Description": "Data table lab sheet screen recording",
+  "MainFile": "Main.xaml"
+}

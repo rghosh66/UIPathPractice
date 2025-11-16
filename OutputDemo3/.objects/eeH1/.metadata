@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome UiPath output methods comparison",
+  "Type": "App",
+  "Id": "eeH1qcrVNUaGph20JRY-nw",
+  "Reference": "-wSSQ2HQU0SbGpG_e6K6Xg/eeH1qcrVNUaGph20JRY-nw",
+  "Created": "2025-09-07T15:28:57.5160704Z",
+  "Updated": "2025-09-07T15:28:57.5160704Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

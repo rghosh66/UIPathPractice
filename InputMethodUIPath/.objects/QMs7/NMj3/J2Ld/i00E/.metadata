@@ -1,0 +1,14 @@
+﻿{
+  "Name": "'button Notepad - 1 runn…'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "i00E6L7bkkyVLwn_K0i8fQ",
+  "Reference": "J6iJe7okv0WnFNzfi6gSiw/i00E6L7bkkyVLwn_K0i8fQ",
+  "ParentRef": "J6iJe7okv0WnFNzfi6gSiw/J2LdhiqHQU6naT9vksbLoA",
+  "Created": "2025-09-02T17:27:30.1267074Z",
+  "Updated": "2025-09-02T17:27:30.1267074Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

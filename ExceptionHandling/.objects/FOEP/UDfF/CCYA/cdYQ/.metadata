@@ -1,0 +1,14 @@
+﻿{
+  "Name": "RichEditD2DPT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "cdYQSj1PiEKtDZbgWoD1rQ",
+  "Reference": "bj-m7yZ5vUmh3rb897BTdA/cdYQSj1PiEKtDZbgWoD1rQ",
+  "ParentRef": "bj-m7yZ5vUmh3rb897BTdA/CCYAUlt4b0G0kaHFyxw1wQ",
+  "Created": "2025-11-04T06:41:04.7094712Z",
+  "Updated": "2025-11-04T06:41:04.7094712Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

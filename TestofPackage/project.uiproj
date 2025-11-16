@@ -1,0 +1,6 @@
+{
+  "Name": "TestofPackage",
+  "ProjectType": "Process",
+  "Description": "Package upload test",
+  "MainFile": "Main.xaml"
+}

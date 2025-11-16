@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Studio - Sequences",
+  "Type": "Screen",
+  "Id": "OCTJLudPTU28ODQERkdPJg",
+  "Reference": "gMfaYjQ7MkmXd9WIcQH_lg/OCTJLudPTU28ODQERkdPJg",
+  "ParentRef": "gMfaYjQ7MkmXd9WIcQH_lg/W7_s2N5iLUqr6vIzLRMYDA",
+  "Created": "2025-09-07T14:36:13.3130758Z",
+  "Updated": "2025-09-07T14:36:13.3130758Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

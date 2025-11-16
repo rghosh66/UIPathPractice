@@ -1,0 +1,6 @@
+{
+  "Name": "EmailAutomationAdvanced-Send",
+  "ProjectType": "Process",
+  "Description": "Sending email",
+  "MainFile": "Main.xaml"
+}

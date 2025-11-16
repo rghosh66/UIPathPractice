@@ -1,0 +1,6 @@
+{
+  "Name": "AgentAssistedRobo",
+  "ProjectType": "Process",
+  "Description": "Process triggered by user events",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Z1kv-qZHYkKnUl_ZmL1N_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.uipath.com/studio/standalone/latest/user-guide/about-control-flow" DesignTimeRectangle="473, 525, 957, 1866" FullSelectorArgument="&lt;webctrl id='DocContainer' tag='DIV' /&gt;" Guid="4888ce30-6e31-4a2e-afde-7d3c44711fb0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Studio - About Control Flow' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d70f3cffe9281f35716e2aabf48a4007.png" xmlns="">0RbX798kdG0ixXVpMJQPXnw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

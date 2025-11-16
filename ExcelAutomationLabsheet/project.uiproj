@@ -1,0 +1,6 @@
+{
+  "Name": "ExcelAutomationLabsheet",
+  "ProjectType": "Process",
+  "Description": "Excel Automation labsheet",
+  "MainFile": "Main.xaml"
+}

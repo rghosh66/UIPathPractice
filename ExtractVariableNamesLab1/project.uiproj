@@ -1,0 +1,6 @@
+{
+  "Name": "ExtractVariableNamesLab1",
+  "ProjectType": "Process",
+  "Description": "Extract variable",
+  "MainFile": "Main.xaml"
+}

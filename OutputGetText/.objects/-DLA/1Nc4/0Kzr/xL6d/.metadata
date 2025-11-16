@@ -1,0 +1,13 @@
+﻿{
+  "Name": "The Assign activity is …",
+  "Type": "Element",
+  "Id": "xL6d_INWAkC6rOvNll3clw",
+  "Reference": "20PUE499NU6ZEDpCPOjOaw/xL6d_INWAkC6rOvNll3clw",
+  "ParentRef": "20PUE499NU6ZEDpCPOjOaw/0KzruUw9bES0A88ozCT-Ig",
+  "Created": "2025-09-10T05:36:38.9019198Z",
+  "Updated": "2025-09-10T05:36:38.9019198Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

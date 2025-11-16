@@ -1,0 +1,6 @@
+{
+  "Name": "PDFAutomationDemoImage",
+  "ProjectType": "Process",
+  "Description": "Extract text from pdf image file",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AUC6uwD79UCy4tUin_tX3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/1" DesignTimeRectangle="246, 87, 1177, 37" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Inbox (76) - rghosh.tech100@gmail.com - Gmail - Google Chrome' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="d29a00c7-61ab-41f3-8d21-5f6b8a589c38" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Inbox (76) - rghosh.tech100@gmail.com - Gmail - Google Chrome' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c9873081147ba36bbc8c6d11d9983133.png" xmlns="">03367T5o5w0SMTFioxktj2Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
